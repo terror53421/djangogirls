@@ -1,0 +1,3 @@
+*.pyc
+axe/axe/settings.py
+axe/db.sqlite3
